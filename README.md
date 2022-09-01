@@ -1,1 +1,1 @@
-# DC-Bot-Hyprex-s-Goon-
+# DC-Bot
