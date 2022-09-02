@@ -1,5 +1,9 @@
 import discord
 import os
+import config
+from twython import Twython, TwythonError
+
+token = Twython(config.TOKEN)
 
 client = discord.client()
 
